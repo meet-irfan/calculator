@@ -1,0 +1,28 @@
+	body {
+
+			background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),	url(kk.jpg);
+			 background-position: center;
+			 background-size: cover;
+			 
+		}
+
+		*{ 
+			 box-sizing: border-box;
+			 -webkit-box-sizing: border-box;
+			 -moz-box-sizing: border-box;
+			}
+	     .wrap{
+	     	 width: 200px;
+	     	 margin-top:50px ;
+	     border-radius: 10px;
+	     	 background: deepskyblue ;
+	     	 text-align: center;
+	     	 background-repeat: no-repeat ;
+	 }
+	 .a{
+	 	text-align: center;
+	 	margin-top: 10px;
+	 }
+	 .b{
+	 	text-align: center;
+	 }
